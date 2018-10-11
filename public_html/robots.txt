@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /3dParty/
+Disallow: /awards/
+Disallow: /css/
+Disallow: /img/
+Disallow: /isols-admin/
+Disallow: /scripts/
+Disallow: /uploaded-images/
+
+
+# BEGIN JCAWLER-XML-SITEMAP-COMPONENT
+#Sitemap: http://www.drsachdevasanjay.com/sitemap.xml
+# END JCAWLER-XML-SITEMAP-COMPONENT 

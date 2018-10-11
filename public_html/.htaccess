@@ -1,0 +1,7 @@
+# Use PHP54 Single php.ini as default
+AddHandler application/x-httpd-php54s .php
+
+#appending www before domain (www rewriting Rule)
+RewriteCond %{HTTP_HOST} !^www\.
+RewriteRule ^(.*)$  http://www.%{HTTP_HOST}/$1 [R=301,L]
+#end of appending www before domain (www rewriting Rule)

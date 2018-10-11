@@ -1,0 +1,99 @@
+[28-Oct-2017 04:57:55 America/Denver] PHP Warning:  session_start(): open(/tmp/sess_ruf4mbam66ad0su16pbql3njt3, O_RDWR) failed: Permission denied (13) in /home3/drsachde/public_html/top-header.php on line 5
+[28-Oct-2017 16:27:55 Asia/Calcutta] PHP Warning:  Unknown: open(/tmp/sess_ruf4mbam66ad0su16pbql3njt3, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[28-Oct-2017 16:27:55 Asia/Calcutta] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[03-Jan-2018 09:40:22 America/Denver] PHP Notice:  Undefined index: page_url in /home3/drsachde/public_html/ajax-contact.php on line 3
+[03-Jan-2018 09:40:22 America/Denver] PHP Notice:  Undefined index: contact_name in /home3/drsachde/public_html/ajax-contact.php on line 148
+[03-Jan-2018 09:40:22 America/Denver] PHP Notice:  Undefined index: contact_email in /home3/drsachde/public_html/ajax-contact.php on line 149
+[03-Jan-2018 09:40:22 America/Denver] PHP Notice:  Undefined index: hpuserphone in /home3/drsachde/public_html/ajax-contact.php on line 150
+[03-Jan-2018 09:40:22 America/Denver] PHP Notice:  Undefined index: contact_comments in /home3/drsachde/public_html/ajax-contact.php on line 151
+[05-Feb-2018 23:43:14 America/Denver] PHP Notice:  Undefined index: page_url in /home3/drsachde/public_html/ajax-contact.php on line 3
+[05-Feb-2018 23:43:14 America/Denver] PHP Notice:  Undefined index: contact_name in /home3/drsachde/public_html/ajax-contact.php on line 148
+[05-Feb-2018 23:43:14 America/Denver] PHP Notice:  Undefined index: contact_email in /home3/drsachde/public_html/ajax-contact.php on line 149
+[05-Feb-2018 23:43:14 America/Denver] PHP Notice:  Undefined index: hpuserphone in /home3/drsachde/public_html/ajax-contact.php on line 150
+[05-Feb-2018 23:43:14 America/Denver] PHP Notice:  Undefined index: contact_comments in /home3/drsachde/public_html/ajax-contact.php on line 151
+[29-Jun-2018 11:19:41 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'drsachde_sanjay'@'localhost' (using password: YES) in /home/drsachdevas/public_html/connection.php on line 2
+[29-Jun-2018 11:19:41 Etc/GMT] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/drsachdevas/public_html/connection.php on line 3
+[29-Jun-2018 16:49:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/drsachdevas/public_html/header.php on line 51
+[29-Jun-2018 16:49:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/drsachdevas/public_html/header.php on line 51
+[29-Jun-2018 16:49:41 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/drsachdevas/public_html/header.php on line 52
+[29-Jun-2018 11:21:25 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'drsachde_sanjay'@'localhost' (using password: YES) in /home/drsachdevas/public_html/connection.php on line 2
+[29-Jun-2018 11:21:25 Etc/GMT] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/drsachdevas/public_html/connection.php on line 3
+[29-Jun-2018 16:51:25 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/drsachdevas/public_html/header.php on line 51
+[29-Jun-2018 16:51:25 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/drsachdevas/public_html/header.php on line 51
+[29-Jun-2018 16:51:25 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/drsachdevas/public_html/header.php on line 52
+[29-Jun-2018 11:21:27 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'drsachde_sanjay'@'localhost' (using password: YES) in /home/drsachdevas/public_html/connection.php on line 2
+[29-Jun-2018 11:21:27 Etc/GMT] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/drsachdevas/public_html/connection.php on line 3
+[29-Jun-2018 16:51:27 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/drsachdevas/public_html/header.php on line 51
+[29-Jun-2018 16:51:27 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/drsachdevas/public_html/header.php on line 51
+[29-Jun-2018 16:51:27 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/drsachdevas/public_html/header.php on line 52
+[29-Jun-2018 16:51:27 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/drsachdevas/public_html/gallery.php on line 89
+[29-Jun-2018 16:51:27 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/drsachdevas/public_html/gallery.php on line 89
+[29-Jun-2018 16:51:27 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/drsachdevas/public_html/gallery.php on line 90
+[29-Jun-2018 11:22:38 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'drsachde_sanjay'@'localhost' (using password: YES) in /home/drsachdevas/public_html/connection.php on line 2
+[29-Jun-2018 11:22:38 Etc/GMT] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/drsachdevas/public_html/connection.php on line 3
+[29-Jun-2018 16:52:38 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/drsachdevas/public_html/header.php on line 51
+[29-Jun-2018 16:52:38 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/drsachdevas/public_html/header.php on line 51
+[29-Jun-2018 16:52:38 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/drsachdevas/public_html/header.php on line 52
+[29-Jun-2018 11:24:02 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'drsachde_sanjay'@'localhost' (using password: YES) in /home/drsachdevas/public_html/connection.php on line 2
+[29-Jun-2018 11:24:02 Etc/GMT] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/drsachdevas/public_html/connection.php on line 3
+[29-Jun-2018 16:54:02 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/drsachdevas/public_html/header.php on line 51
+[29-Jun-2018 16:54:02 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/drsachdevas/public_html/header.php on line 51
+[29-Jun-2018 16:54:02 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/drsachdevas/public_html/header.php on line 52
+[29-Jun-2018 16:54:02 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/drsachdevas/public_html/testimonials.php on line 59
+[29-Jun-2018 16:54:02 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/drsachdevas/public_html/testimonials.php on line 59
+[29-Jun-2018 16:54:02 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/drsachdevas/public_html/testimonials.php on line 60
+[05-Jul-2018 05:11:05 Etc/GMT] PHP Notice:  Undefined index: page_url in /home/drsachdevas/public_html/ajax-contact.php on line 3
+[05-Jul-2018 05:11:05 Etc/GMT] PHP Notice:  Undefined index: contact_name in /home/drsachdevas/public_html/ajax-contact.php on line 148
+[05-Jul-2018 05:11:05 Etc/GMT] PHP Notice:  Undefined index: contact_email in /home/drsachdevas/public_html/ajax-contact.php on line 149
+[05-Jul-2018 05:11:05 Etc/GMT] PHP Notice:  Undefined index: hpuserphone in /home/drsachdevas/public_html/ajax-contact.php on line 150
+[05-Jul-2018 05:11:05 Etc/GMT] PHP Notice:  Undefined index: contact_comments in /home/drsachdevas/public_html/ajax-contact.php on line 151
+[06-Aug-2018 10:30:42 Etc/GMT] PHP Warning:  mysql_connect(): User drsachde_vauser already has more than 'max_user_connections' active connections in /home/drsachdevas/public_html/connection.php on line 2
+[06-Aug-2018 10:30:42 Etc/GMT] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/drsachdevas/public_html/connection.php on line 3
+[06-Aug-2018 10:30:42 Etc/GMT] PHP Warning:  mysql_connect(): User drsachde_vauser already has more than 'max_user_connections' active connections in /home/drsachdevas/public_html/connection.php on line 2
+[06-Aug-2018 10:30:42 Etc/GMT] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/drsachdevas/public_html/connection.php on line 3
+[06-Aug-2018 10:30:42 Etc/GMT] PHP Warning:  mysql_connect(): User drsachde_vauser already has more than 'max_user_connections' active connections in /home/drsachdevas/public_html/connection.php on line 2
+[06-Aug-2018 10:30:42 Etc/GMT] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/drsachdevas/public_html/connection.php on line 3
+[06-Aug-2018 10:30:42 Etc/GMT] PHP Warning:  mysql_connect(): User drsachde_vauser already has more than 'max_user_connections' active connections in /home/drsachdevas/public_html/connection.php on line 2
+[06-Aug-2018 10:30:42 Etc/GMT] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/drsachdevas/public_html/connection.php on line 3
+[06-Aug-2018 10:30:42 Etc/GMT] PHP Warning:  mysql_connect(): User drsachde_vauser already has more than 'max_user_connections' active connections in /home/drsachdevas/public_html/connection.php on line 2
+[06-Aug-2018 10:30:42 Etc/GMT] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/drsachdevas/public_html/connection.php on line 3
+[06-Aug-2018 10:30:42 Etc/GMT] PHP Warning:  mysql_connect(): User drsachde_vauser already has more than 'max_user_connections' active connections in /home/drsachdevas/public_html/connection.php on line 2
+[06-Aug-2018 10:30:42 Etc/GMT] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/drsachdevas/public_html/connection.php on line 3
+[06-Aug-2018 10:30:42 Etc/GMT] PHP Warning:  mysql_connect(): User drsachde_vauser already has more than 'max_user_connections' active connections in /home/drsachdevas/public_html/connection.php on line 2
+[06-Aug-2018 10:30:42 Etc/GMT] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/drsachdevas/public_html/connection.php on line 3
+[06-Aug-2018 10:30:42 Etc/GMT] PHP Warning:  mysql_connect(): User drsachde_vauser already has more than 'max_user_connections' active connections in /home/drsachdevas/public_html/connection.php on line 2
+[06-Aug-2018 10:30:42 Etc/GMT] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/drsachdevas/public_html/connection.php on line 3
+[06-Aug-2018 10:30:42 Etc/GMT] PHP Warning:  mysql_connect(): User drsachde_vauser already has more than 'max_user_connections' active connections in /home/drsachdevas/public_html/connection.php on line 2
+[06-Aug-2018 10:30:42 Etc/GMT] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/drsachdevas/public_html/connection.php on line 3
+[06-Aug-2018 10:30:42 Etc/GMT] PHP Warning:  mysql_connect(): User drsachde_vauser already has more than 'max_user_connections' active connections in /home/drsachdevas/public_html/connection.php on line 2
+[06-Aug-2018 10:30:42 Etc/GMT] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/drsachdevas/public_html/connection.php on line 3
+[06-Aug-2018 16:00:42 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'drsachdevas'@'localhost' (using password: NO) in /home/drsachdevas/public_html/header.php on line 51
+[06-Aug-2018 16:00:42 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/drsachdevas/public_html/header.php on line 51
+[06-Aug-2018 16:00:42 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/drsachdevas/public_html/header.php on line 52
+[06-Aug-2018 16:00:42 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'drsachdevas'@'localhost' (using password: NO) in /home/drsachdevas/public_html/header.php on line 51
+[06-Aug-2018 16:00:42 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/drsachdevas/public_html/header.php on line 51
+[06-Aug-2018 16:00:42 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/drsachdevas/public_html/header.php on line 52
+[06-Aug-2018 16:00:42 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'drsachdevas'@'localhost' (using password: NO) in /home/drsachdevas/public_html/header.php on line 51
+[06-Aug-2018 16:00:42 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/drsachdevas/public_html/header.php on line 51
+[06-Aug-2018 16:00:42 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/drsachdevas/public_html/header.php on line 52
+[06-Aug-2018 16:00:42 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'drsachdevas'@'localhost' (using password: NO) in /home/drsachdevas/public_html/header.php on line 51
+[06-Aug-2018 16:00:42 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/drsachdevas/public_html/header.php on line 51
+[06-Aug-2018 16:00:42 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/drsachdevas/public_html/header.php on line 52
+[06-Aug-2018 16:00:42 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'drsachdevas'@'localhost' (using password: NO) in /home/drsachdevas/public_html/header.php on line 51
+[06-Aug-2018 16:00:42 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/drsachdevas/public_html/header.php on line 51
+[06-Aug-2018 16:00:42 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/drsachdevas/public_html/header.php on line 52
+[06-Aug-2018 16:00:42 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'drsachdevas'@'localhost' (using password: NO) in /home/drsachdevas/public_html/header.php on line 51
+[06-Aug-2018 16:00:42 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/drsachdevas/public_html/header.php on line 51
+[06-Aug-2018 16:00:42 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/drsachdevas/public_html/header.php on line 52
+[06-Aug-2018 16:00:42 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'drsachdevas'@'localhost' (using password: NO) in /home/drsachdevas/public_html/header.php on line 51
+[06-Aug-2018 16:00:42 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/drsachdevas/public_html/header.php on line 51
+[06-Aug-2018 16:00:42 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/drsachdevas/public_html/header.php on line 52
+[06-Aug-2018 16:00:42 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'drsachdevas'@'localhost' (using password: NO) in /home/drsachdevas/public_html/header.php on line 51
+[06-Aug-2018 16:00:42 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/drsachdevas/public_html/header.php on line 51
+[06-Aug-2018 16:00:42 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/drsachdevas/public_html/header.php on line 52
+[06-Aug-2018 16:00:42 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'drsachdevas'@'localhost' (using password: NO) in /home/drsachdevas/public_html/header.php on line 51
+[06-Aug-2018 16:00:42 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/drsachdevas/public_html/header.php on line 51
+[06-Aug-2018 16:00:42 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/drsachdevas/public_html/header.php on line 52
+[06-Aug-2018 16:00:42 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'drsachdevas'@'localhost' (using password: NO) in /home/drsachdevas/public_html/header.php on line 51
+[06-Aug-2018 16:00:42 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/drsachdevas/public_html/header.php on line 51
+[06-Aug-2018 16:00:42 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/drsachdevas/public_html/header.php on line 52

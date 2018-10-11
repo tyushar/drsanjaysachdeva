@@ -1,0 +1,106 @@
+.send-enquiry-slilde-bottom{ text-align:center; margin-bottom:20px; }
+
+.send-enquiry-slilde-bottom a{ padding: 10px 20px; background: #ffffff; color: #333333; border-radius: 20px; } 
+
+		
+		#feedback{
+			position: fixed;
+			top: 150px;
+			right: -298px; z-index:9999;
+		}
+		
+		#feedback .form-enquiry {
+    float: left;
+    border: 1px solid #b3b0e6;
+    padding: 10px;
+    border-radius: 5px;
+    width: 298px;
+    background: #ccc9f7;
+}
+		#feedback .form-enquiry label{
+			display: block;
+			float: left;
+			text-align:right;
+			margin-right:20px;
+			width:70px;
+			font-weight:bold;
+			color: 019AC6;
+			font-size:14px;
+		}
+		
+		
+		#feedback a{
+			background: url(../img/feedback-buttonsb.png) no-repeat center left transparent;
+			    display: block;
+				width: 40px;
+				height: 160px;
+				float: right !important;
+				text-indent: -9999em;
+				position: absolute;
+				right: 296px; top:0;
+		}
+		
+		#feedback .form-enquiry .btn{
+			float: right;
+			background:url("send.png")  no-repeat 0px 0px transparent;
+			text-indent:-9999em;
+			width:80px;
+			height:28px;
+			border:none;
+
+		}
+		
+		
+		#feedback h2{
+			color:#4740b4;
+			font-size: 22px;
+			font-family: arial;
+			margin: 5px 0 0 0px;
+			font-weight: normal !important;
+			letter-spacing: -1px;
+			line-height: 30px;
+			text-decoration: none;
+			text-align: left;
+		}
+		
+		
+		.slide-textbox:hover {
+			box-shadow: 0px 0px 8px #ffffff;
+			border: 1px solid #ffffff;
+		}
+		
+		.slide-textbox {
+		width: 100%;
+		padding: 3px 2%;
+		margin: 5px 0;
+		border: 1px solid #23d5ae;
+		background-color: #ffffff;
+		color: #3b61b9;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 13px;
+		}
+		
+		.slide-submitbtn {
+			border: 0;
+			border-radius: 5px;
+			-moz-border-radius: 5px;
+			-ms-border-radius: 5px;
+			-o-border-radius: 5px;
+			-webkit-border-radius: 5px;
+		}
+		
+		.slide.form-enquiry-inside p{ margin-bottom:0; }
+		
+		.slide.form-enquiry-inside p span{ background:#3b1511; padding:10px; vertical-align:top; }
+		
+		.slide.form-enquiry-inside p span:hover{ background:#ed6937; }
+		
+		.slide.form-enquiry-inside img{ height:20px; vertical-align:top; }
+		
+		.twitter-side-enquiry{ vertical-align:middle; margin-top:10px; }
+		
+		.corporate-gifts img{ width:100%; }
+		
+		.form-enquiry p{ margin-bottom:0; } 
+		
+		.form-enquiry p .slide-submitbtn{ background: #635cd6; padding: 5px 10px; color: #ffffff; }
